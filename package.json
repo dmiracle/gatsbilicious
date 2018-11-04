@@ -2,6 +2,10 @@
   "name": "gatsby-starter-hello-world",
   "description": "Gatsby hello world starter",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmiracle/gatsbilicious.git"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",

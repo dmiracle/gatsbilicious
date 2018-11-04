@@ -2,6 +2,10 @@
   "name": "new-gatsby",
   "description": "Gatsby hello world starter",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmiracle/gatsbilicious.git"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
@@ -11,6 +15,7 @@
   "dependencies": {
     "gatsby": "^2.0.33",
     "gatsby-plugin-sass": "^2.0.3",
+    "node-sass": "^4.10.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1"
   }
